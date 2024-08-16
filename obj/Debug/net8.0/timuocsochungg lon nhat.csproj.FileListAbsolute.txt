@@ -1,0 +1,14 @@
+E:\timuocsochungg lon nhat\bin\Debug\net8.0\timuocsochungg lon nhat.exe
+E:\timuocsochungg lon nhat\bin\Debug\net8.0\timuocsochungg lon nhat.deps.json
+E:\timuocsochungg lon nhat\bin\Debug\net8.0\timuocsochungg lon nhat.runtimeconfig.json
+E:\timuocsochungg lon nhat\bin\Debug\net8.0\timuocsochungg lon nhat.dll
+E:\timuocsochungg lon nhat\bin\Debug\net8.0\timuocsochungg lon nhat.pdb
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.AssemblyInfoInputs.cache
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.AssemblyInfo.cs
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.csproj.CoreCompileInputs.cache
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.dll
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\refint\timuocsochungg lon nhat.dll
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.pdb
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\timuocsochungg lon nhat.genruntimeconfig.cache
+E:\timuocsochungg lon nhat\obj\Debug\net8.0\ref\timuocsochungg lon nhat.dll
